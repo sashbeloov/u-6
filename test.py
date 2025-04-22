@@ -32,3 +32,6 @@
 # ssh-keygen -t rsa -b 4096 -C "beloovsasha23@gmail.com"
 #
 # GitLab yordamida shaxsiy cloudni yaratsa boladi bulardan tashqaru butbucket ham bor va github
+
+
+print("salom")
