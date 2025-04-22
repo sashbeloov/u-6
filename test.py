@@ -32,7 +32,36 @@
 # ssh-keygen -t rsa -b 4096 -C "beloovsasha23@gmail.com"
 #
 # GitLab yordamida shaxsiy cloudni yaratsa boladi bulardan tashqaru butbucket ham bor va github
-
-
-print("hello")
-print(24)
+#
+# git checkout -b (branch-name) ---> yangi branch yaratish
+# git checkout (branch-name) ---> boshqa branchga o'tish
+#
+# misol uchu main branchdan boshqa branchga otganda ozgarishlar qilsak ozgarishlar faqat osha branchga otganda korinadi boshqasida korinmaydi
+# agar birlashtirmoqchi bolsak git merge bilan birlash tiramiz
+# git merge (features/rewivew) qavs ichiga main bilan qaysi branchni birlashtirmoqchi bolsak shu branch nomini yozamiz
+#
+# clone qilingandan keyin
+#
+# kerakli kodlar yozib bolgandan song
+#
+# git add .
+# git commit -m 'commit'
+# git push origin (branch-name)
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+# print("hello")
+# print(24)
