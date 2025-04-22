@@ -34,5 +34,5 @@
 # GitLab yordamida shaxsiy cloudni yaratsa boladi bulardan tashqaru butbucket ham bor va github
 
 
-print("salom")
-print(23)
+print("hello")
+print(24)
